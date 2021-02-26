@@ -1,4 +1,4 @@
 collections:
-    - name: startx.demo_collection
+    - name: startx.collection_demo
       version: 1.0.10
     - name: ibm.cloudcollection
